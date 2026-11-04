@@ -1,0 +1,242 @@
+{
+  "fuente": "Horas: estimación propia (valor medio por defecto). Porcentajes automatizables: estimación prudente, por debajo del potencial técnico del estudio McKinsey Global Institute (2017).",
+  "semanas_laborables": 46,
+  "sectores": [
+    {
+      "nombre": "Industria y metal",
+      "tareas": [
+        {
+          "nombre": "Pasar los pedidos de clientes del correo al sistema",
+          "horas_semana": {
+            "poco": 2,
+            "medio": 6,
+            "mucho": 15
+          },
+          "automatizable": 0.5
+        },
+        {
+          "nombre": "Preparar presupuestos y ofertas técnicas",
+          "horas_semana": {
+            "poco": 3,
+            "medio": 8,
+            "mucho": 20
+          },
+          "automatizable": 0.25
+        },
+        {
+          "nombre": "Registrar controles de calidad y preparar sus informes",
+          "horas_semana": {
+            "poco": 2,
+            "medio": 5,
+            "mucho": 12
+          },
+          "automatizable": 0.4
+        },
+        {
+          "nombre": "Gestionar pedidos a proveedores y seguimiento de entregas",
+          "horas_semana": {
+            "poco": 2,
+            "medio": 5,
+            "mucho": 12
+          },
+          "automatizable": 0.4
+        },
+        {
+          "nombre": "Preparar la documentación de envío y exportación",
+          "horas_semana": {
+            "poco": 1,
+            "medio": 4,
+            "mucho": 10
+          },
+          "automatizable": 0.45
+        },
+        {
+          "nombre": "Montar los informes de producción",
+          "horas_semana": {
+            "poco": 1,
+            "medio": 3,
+            "mucho": 8
+          },
+          "automatizable": 0.6
+        }
+      ]
+    },
+    {
+      "nombre": "Logística y transporte",
+      "tareas": [
+        {
+          "nombre": "Pasar pedidos y órdenes de transporte al sistema",
+          "horas_semana": {
+            "poco": 3,
+            "medio": 8,
+            "mucho": 20
+          },
+          "automatizable": 0.5
+        },
+        {
+          "nombre": "Crear y revisar albaranes",
+          "horas_semana": {
+            "poco": 2,
+            "medio": 6,
+            "mucho": 15
+          },
+          "automatizable": 0.45
+        },
+        {
+          "nombre": "Gestionar incidencias de entregas",
+          "horas_semana": {
+            "poco": 2,
+            "medio": 6,
+            "mucho": 15
+          },
+          "automatizable": 0.25
+        },
+        {
+          "nombre": "Responder a clientes que preguntan dónde está su envío",
+          "horas_semana": {
+            "poco": 2,
+            "medio": 6,
+            "mucho": 15
+          },
+          "automatizable": 0.4
+        },
+        {
+          "nombre": "Preparar las facturas a fin de mes",
+          "horas_semana": {
+            "poco": 1,
+            "medio": 4,
+            "mucho": 10
+          },
+          "automatizable": 0.45
+        },
+        {
+          "nombre": "Montar el informe de envíos y rendimiento",
+          "horas_semana": {
+            "poco": 1,
+            "medio": 3,
+            "mucho": 8
+          },
+          "automatizable": 0.6
+        }
+      ]
+    },
+    {
+      "nombre": "Construcción e ingeniería",
+      "tareas": [
+        {
+          "nombre": "Buscar licitaciones y revisar sus pliegos",
+          "horas_semana": {
+            "poco": 2,
+            "medio": 5,
+            "mucho": 12
+          },
+          "automatizable": 0.45
+        },
+        {
+          "nombre": "Preparar la documentación para licitaciones",
+          "horas_semana": {
+            "poco": 3,
+            "medio": 8,
+            "mucho": 20
+          },
+          "automatizable": 0.3
+        },
+        {
+          "nombre": "Elaborar presupuestos y mediciones",
+          "horas_semana": {
+            "poco": 3,
+            "medio": 8,
+            "mucho": 20
+          },
+          "automatizable": 0.2
+        },
+        {
+          "nombre": "Redactar informes de seguimiento de obra",
+          "horas_semana": {
+            "poco": 2,
+            "medio": 4,
+            "mucho": 10
+          },
+          "automatizable": 0.35
+        },
+        {
+          "nombre": "Gestionar la documentación de subcontratas",
+          "horas_semana": {
+            "poco": 2,
+            "medio": 5,
+            "mucho": 12
+          },
+          "automatizable": 0.45
+        },
+        {
+          "nombre": "Controlar facturas y certificaciones de obra",
+          "horas_semana": {
+            "poco": 1,
+            "medio": 4,
+            "mucho": 10
+          },
+          "automatizable": 0.4
+        }
+      ]
+    },
+    {
+      "nombre": "Asesorías y despachos",
+      "tareas": [
+        {
+          "nombre": "Recibir y clasificar la documentación de los clientes",
+          "horas_semana": {
+            "poco": 3,
+            "medio": 8,
+            "mucho": 20
+          },
+          "automatizable": 0.5
+        },
+        {
+          "nombre": "Introducir facturas y gastos en contabilidad",
+          "horas_semana": {
+            "poco": 4,
+            "medio": 10,
+            "mucho": 25
+          },
+          "automatizable": 0.55
+        },
+        {
+          "nombre": "Controlar plazos y vencimientos",
+          "horas_semana": {
+            "poco": 1,
+            "medio": 3,
+            "mucho": 8
+          },
+          "automatizable": 0.6
+        },
+        {
+          "nombre": "Responder consultas repetidas de clientes",
+          "horas_semana": {
+            "poco": 2,
+            "medio": 6,
+            "mucho": 15
+          },
+          "automatizable": 0.3
+        },
+        {
+          "nombre": "Redactar documentos a partir de plantillas",
+          "horas_semana": {
+            "poco": 2,
+            "medio": 6,
+            "mucho": 15
+          },
+          "automatizable": 0.35
+        },
+        {
+          "nombre": "Pedir a los clientes la documentación que falta",
+          "horas_semana": {
+            "poco": 1,
+            "medio": 4,
+            "mucho": 10
+          },
+          "automatizable": 0.5
+        }
+      ]
+    }
+  ]
+}

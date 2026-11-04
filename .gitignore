@@ -1,0 +1,3 @@
+.venv/
+datos/envios.csv
+__pycache__/
