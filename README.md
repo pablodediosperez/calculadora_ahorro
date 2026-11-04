@@ -73,9 +73,8 @@ Requisitos: Python 3.10 o superior.
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/TU_USUARIO/calculadora-ahorro.git
-cd calculadora-ahorro
-
+git clone https://github.com/pablodediosperez/calculadora_ahorro.git
+cd calculadora_ahorro
 # 2. Crear y activar un entorno virtual
 python -m venv .venv
 .venv\Scripts\activate        # Windows
@@ -127,4 +126,4 @@ python calculadora.py
 
 **Pablo de Dios Pérez**, analytics y data science, especializado en IA y automatización de procesos.
 
-[LinkedIn](https://www.linkedin.com/in/TU_PERFIL) · [GitHub](https://github.com/TU_USUARIO)
+[LinkedIn](https://www.linkedin.com/in/pablodediospérez) · [GitHub](https://github.com/pablodediosperez)
